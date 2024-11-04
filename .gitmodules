@@ -1,0 +1,9 @@
+[submodule "cu-fund-me"]
+	path = cu-fund-me
+	url = https://github.com/0xInkya/cu-fund-me.git
+[submodule "cu-lottery"]
+	path = cu-lottery
+	url = https://github.com/0xInkya/cu-lottery.git
+[submodule "cu-stablecoin"]
+	path = cu-stablecoin
+	url = https://github.com/0xInkya/cu-stablecoin.git
